@@ -1,0 +1,23 @@
+{
+  "allowed_geos": [
+    "KSA",
+    "UAE",
+    "EGY",
+    "KWT",
+    "QAT",
+    "GCC"
+  ],
+  "allowed_funnels": [
+    "TOF",
+    "MOF",
+    "BOF",
+    "RET"
+  ],
+  "allowed_formats": [
+    "VID9x16",
+    "IMG1x1",
+    "CAROUSEL",
+    "DPA",
+    "STORY"
+  ]
+}
